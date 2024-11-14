@@ -1,3 +1,6 @@
 /node_modules
 
+/packages/library/node_modules
+/packages/playground/node_modules
+
 CHAT-GPT.md
