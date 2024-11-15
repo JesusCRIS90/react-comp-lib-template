@@ -1,6 +1,7 @@
 /node_modules
 
 /packages/library/node_modules
+/packages/library/dist
 /packages/playground/node_modules
 
 CHAT-GPT.md

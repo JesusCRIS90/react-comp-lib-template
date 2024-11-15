@@ -1,2 +1,4 @@
-### BUGSIE-UI Lib
+### Template for Creation, Testing and Publish React Component
+
+TODO
 
